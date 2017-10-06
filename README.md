@@ -1,1 +1,3 @@
-# Repositoty destined of works in a nodeMCU using LUA to program
+# Repository for jobs with nodeMCU made in LUA
+
+The repository contain the firmware that I used to do my jobs
