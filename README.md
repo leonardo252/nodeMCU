@@ -4,5 +4,4 @@ In the past <a href="https://github.com/leonardo252/nodeMCU/tree/master/web%20ht
 
 The repository contain the <a href="https://github.com/leonardo252/nodeMCU/tree/master/firmware"> Firmware</a> that I used to do my jobs
 
-                    Author: Leonardo Gomes Fernandes 
-                    Email: leonardo.gomes@lit.ifce.edu.br 
+Author: Leonardo Gomes Fernandes Email: leonardo.gomes@lit.ifce.edu.br 
