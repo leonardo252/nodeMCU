@@ -10,4 +10,6 @@ It's necessary put the init.lua and main.lua.
             main.lua:
               The first part is responsible to verify the connection and show the ip adress to access
               The second is where inicialize the varibles
-              The third is the web server, where we define the html page showed and the functions
+              The third is the web server, where we define the html page showed and the functionsobs
+            
+Obs: The file valorADC.lua is just a file that shows the ADC value from the pin A0.
